@@ -358,7 +358,7 @@ write_files:
       base ou=2396,dc=intranet,dc=empresa,dc=br
       ldap_version 3
       binddn linuxldap-ro@intranet.dominio.com
-      bindpw KspbXqTwLL6HO#dOeldp
+      bindpw passw0rd
       referrals off
       scope sub
       map passwd uid sAMAccountName
