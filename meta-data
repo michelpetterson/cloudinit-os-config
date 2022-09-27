@@ -1,0 +1,3 @@
+instance-id: id-local01
+local-hostname: <name>
+hostname: <name>
